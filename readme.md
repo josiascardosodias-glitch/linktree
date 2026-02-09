@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Imagem do projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Imagem do projeto DevLinks" src=".github/previw.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ Projeto de menu de links interativos para redirecionamento às redes sociais
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [Deste Link](https://www.figma.com/design/RWgLMc3xKJLpPBpYMAgkTh/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=10-620&p=f&t=gurm0um7mDH2uZL2-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
